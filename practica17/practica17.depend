@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542727111 source:c:\users\alumno-g\practica17\src\array.cpp
+
+1542727207 source:c:\users\alumno-g\practica17\src\loquesea.cpp
+	"loquesea.h"
+
+1542727207 c:\users\alumno-g\practica17\include\loquesea.h
+
+1542730774 source:c:\users\alumno-g\practica17\main.cpp
+	<iostream>
+	"array.h"
+
+1542730837 c:\users\alumno-g\practica17\include\array.h
+	<iostream>
+
